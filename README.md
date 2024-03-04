@@ -1,4 +1,5 @@
 # Ensemble-Electricity-Price-Explanation
+
 Project for the Ensemble Learning Course at CentraleSupelec
 
 The project is to predict Electricity prices using ensemble learning methods. The challenge is from QRT and the dataset can be found here: [QRT Challenge](https://challengedata.ens.fr/challenges/97/data)
