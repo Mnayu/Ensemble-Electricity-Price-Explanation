@@ -13,6 +13,7 @@ We went through following process to predict the electricity prices:
 3. Model Selection: We tested following models:
    1. Random Forest
    2. Stacked Linear Regression with Decision Tree.
+   3. Gradient Boosting
 4. Model Evaluation: The evaluation metrics used are:
    1. Mean Absolute Error
    2. Mean Squared Error
